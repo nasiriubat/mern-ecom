@@ -86,13 +86,12 @@ This project is a basic e-commerce application built using the MERN stack (Mongo
 
 1\. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/nasiriubat/mern-ecom.git
-   cd mern-ecom
+    git clone https://github.com/nasiriubat/mern-ecom.git
+    cd mern-ecom
+
 
 2\. **Install backend dependencies:**
 
-   ```bash
    cd backend
    npm install
 
@@ -100,12 +99,8 @@ This project is a basic e-commerce application built using the MERN stack (Mongo
 
    Create a `.env` file in the `backend` directory and add the following variables:
 
-   ```bash
-
    PORT=5000
-
    MONGODB_URI=your_mongodb_connection_string
-
    JWT_SECRET=your_jwt_secret
 
 
@@ -113,10 +108,7 @@ This project is a basic e-commerce application built using the MERN stack (Mongo
 
 1\. **Start the backend server:**
 
-   ```bash
-
    npm run dev
-
 
    This will start the server using nodemon for automatic restarts on file changes.
 

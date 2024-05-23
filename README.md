@@ -72,39 +72,35 @@ This project is a basic e-commerce application built using the MERN stack (Mongo
 
 ### Frontend
 
-- React.js (not detailed here, but assumed as part of the MERN stack)
+- React.js 
 
 ## Prerequisites
 
-- Node.js (v14.x or higher recommended)
+- Node.js 
 
-- MongoDB (local or cloud-based instance)
+- MongoDB 
 
-- npm (v6.x or higher) or yarn
+- npm 
 
 ## Installation
 
 1\. **Clone the repository:**
 
-   ```sh
+   ```bash
 
    git clone https://github.com/nasiriubat/mern-ecom.git
 
    cd mern-ecom
 
-   ```
 
 2\. **Install backend dependencies:**
 
-   ```sh
+   ```bash
 
    cd backend
 
    npm install
-
-   ```
-
-   (Adjust if you have a separate frontend directory and need to install frontend dependencies as well)
+   ```
 
 3\. **Set up environment variables:**
 
